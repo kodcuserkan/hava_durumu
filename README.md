@@ -1,3 +1,9 @@
+https://openweathermap.org/ sitesine kaydolup kendi api id keyinizi oluşturduktan sonra
+App.js de mevcut API_KEY değişkenine kendi kodunuzu yapıştırınız lütfen.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
